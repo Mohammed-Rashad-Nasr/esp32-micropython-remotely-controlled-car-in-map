@@ -14,7 +14,10 @@ remotely operated car using esp32 microcontroller with micropython firmware and 
 - go to (x,y) position
 - obstacles avoiding and rerouting  
 ## Acknowledgements
-<a href="">
+<a href="https://appinventor.mit.edu/">
 <img src="https://community.appinventor.mit.edu/uploads/default/original/3X/7/c/7c8b59c5b1b374747bd042cc1a052ca161689272.png" /img width=80>
+</a>
+<a href="https://micropython.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" /img width=80>
 </a>
  

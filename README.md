@@ -21,3 +21,16 @@ remotely operated car using esp32 microcontroller with micropython firmware and 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" /img width=50>
 </a>
  
+## Manual mode 
+----------
+in this mode we control car inside map using control buttons and voice command in mobile app
+
+
+## Auto mode 
+----------
+in this mode we control car inside map using (x,y) coordinates for the destination cell then car moves to that cell and avoids obstacles while moving then grips an object after that it accepts cell to go back and drop the object
+
+
+## Map 
+--------
+the map I used is simple occupancy grid and has limited (x,y) cells 

@@ -18,6 +18,6 @@ remotely operated car using esp32 microcontroller with micropython firmware and 
 <img src="https://community.appinventor.mit.edu/uploads/default/original/3X/7/c/7c8b59c5b1b374747bd042cc1a052ca161689272.png" /img width=80>
 </a>
 <a href="https://micropython.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" /img width=70>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" /img width=50>
 </a>
  

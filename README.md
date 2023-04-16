@@ -24,11 +24,12 @@ remotely operated car using esp32 microcontroller with micropython firmware and 
 ## Manual mode 
 
 in this mode we control car inside map using control buttons and voice command in mobile app
-
+![manual](https://github.com/Mohammed-Rashad-Nasr/esp32-micropython-remotely-controlled-car-in-map/blob/main/manual.mp4)
 
 ## Auto mode 
 
 in this mode we control car inside map using (x,y) coordinates for the destination cell then car moves to that cell and avoids obstacles while moving then grips an object after that it accepts cell to go back and drop the object
+![auto](https://github.com/Mohammed-Rashad-Nasr/esp32-micropython-remotely-controlled-car-in-map/blob/main/auto.mp4)
 
 
 ## Map 
